@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/20058987/mlops-zoomcamp-hw/mlruns/1/c354ba5f4f624d7295d33678a18514c8/artifacts
+end_time: 1653888299864
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c354ba5f4f624d7295d33678a18514c8
+run_uuid: c354ba5f4f624d7295d33678a18514c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653888275325
+status: 3
+tags: []
+user_id: '20058987'

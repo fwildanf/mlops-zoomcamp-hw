@@ -1,0 +1,4 @@
+artifact_location: file:///Users/20058987/mlops-zoomcamp-hw/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: my-experiment-1
